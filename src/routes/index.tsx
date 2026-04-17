@@ -179,7 +179,7 @@ function HomePage() {
             fontWeight: 300,
           }}
         >
-          Crafting digital experiences where rigorous structure meets expressive
+          rafting digital experiences where rigorous structure meets expressive
           form — from brand systems to interactive interfaces.
         </p>
       </section>
