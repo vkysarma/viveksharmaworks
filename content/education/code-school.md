@@ -1,8 +1,8 @@
 ---
-school: Faculty of Fine Arts, University of Lisbon
-summary: Bachelor of Design — Visual Communication. Thesis focused on generative typography and the intersection of algorithmic systems with traditional type design. Graduated with distinction.
-startDate: 2015-09
-endDate: 2019-06
+school: University Institute Of Engineering & Tecnology (Panjab University)
+summary: Bachelor of Engieering ( Electrical and Electronics )
+startDate: 2004-04
+endDate: 2008-06
 tags:
   [
     "Visual Communication",
