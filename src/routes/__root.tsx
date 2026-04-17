@@ -50,10 +50,10 @@ function RootLayout() {
     <>
       <header className="site-header">
         <Link to="/" className="site-name">
-          Mara<span>.</span>Vasile
+          Vivek<span>.</span>Sharma
         </Link>
         <nav className="site-nav">
-          <NavLink to="/">Gallery</NavLink>
+          <NavLink to="/">Home</NavLink>
           <NavLink to="/about">About</NavLink>
           <NavLink to="/projects">Work</NavLink>
           <NavLink to="/contact">Contact</NavLink>
